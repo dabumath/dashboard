@@ -1,3 +1,3 @@
 :HL["/dashboard/_next/static/css/3fc4fdb1407e9aac.css","style"]
 :HL["/dashboard/_next/static/css/2674cf68599981fb.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"classPath","param":{"type":"c","key":"summer","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"24agoV_9BAjbmwbpK-3Ee"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"classPath","param":{"type":"c","key":"summer","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"37oiM9cxyBQm6Iee6mtEc"}
