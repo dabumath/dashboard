@@ -1,10 +1,10 @@
 1:"$Sreact.fragment"
-2:I[1214,["940","static/chunks/940-652da2c206840b5e.js","56","static/chunks/app/s/page-b7fd1c377eb7aa92.js"],"default"]
+2:I[1214,["940","static/chunks/940-e7c36531a2163901.js","56","static/chunks/app/s/page-95af8af61decec51.js"],"default"]
 3:I[5227,[],"OutletBoundary"]
 4:"$Sreact.suspense"
 :HL["/dashboard/_next/static/css/6adb99462ae9075f.css","style"]
 :HL["/dashboard/_next/static/css/148c0385882e526c.css","style"]
 :HL["/dashboard/_next/static/css/d87768f32537d87d.css","style"]
-:HL["/dashboard/_next/static/css/97d915a8dc940728.css","style"]
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],[["$","link","0",{"rel":"stylesheet","href":"/dashboard/_next/static/css/6adb99462ae9075f.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/dashboard/_next/static/css/148c0385882e526c.css","precedence":"next"}],["$","link","2",{"rel":"stylesheet","href":"/dashboard/_next/static/css/d87768f32537d87d.css","precedence":"next"}],["$","link","3",{"rel":"stylesheet","href":"/dashboard/_next/static/css/97d915a8dc940728.css","precedence":"next"}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"wYfWCilzxqIJ0xEXK7uLx"}
+:HL["/dashboard/_next/static/css/d0df9cb0839a2a84.css","style"]
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],[["$","link","0",{"rel":"stylesheet","href":"/dashboard/_next/static/css/6adb99462ae9075f.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/dashboard/_next/static/css/148c0385882e526c.css","precedence":"next"}],["$","link","2",{"rel":"stylesheet","href":"/dashboard/_next/static/css/d87768f32537d87d.css","precedence":"next"}],["$","link","3",{"rel":"stylesheet","href":"/dashboard/_next/static/css/d0df9cb0839a2a84.css","precedence":"next"}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"BLVSBq1VhImM9Al-j390h"}
 5:null
