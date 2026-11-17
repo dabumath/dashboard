@@ -1,6 +1,6 @@
 :HL["/dashboard/_next/static/css/e242ea3620bd1e33.css","style"]
 :HL["/dashboard/_next/static/css/6adb99462ae9075f.css","style"]
-:HL["/dashboard/_next/static/css/3e565c4311487c18.css","style"]
+:HL["/dashboard/_next/static/css/559c42f3c8574fc3.css","style"]
 :HL["/dashboard/_next/static/css/d87768f32537d87d.css","style"]
 :HL["/dashboard/_next/static/css/d0df9cb0839a2a84.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"s","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"C1iBQcxamq4ciE-WZzSDe"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"s","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"U0ogkLQKRefT8hn4b6zhx"}
