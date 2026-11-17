@@ -1,10 +1,10 @@
 1:"$Sreact.fragment"
-2:I[2139,["718","static/chunks/718-d7303b2513c37895.js","56","static/chunks/app/s/page-095e97fe77d9d25e.js"],"default"]
-3:I[8337,[],"OutletBoundary"]
+2:I[8727,["162","static/chunks/162-3eeb785fd52bd26c.js","56","static/chunks/app/s/page-a66c2b68b2f0a17e.js"],"default"]
+3:I[5751,[],"OutletBoundary"]
 4:"$Sreact.suspense"
 :HL["/dashboard/_next/static/css/6adb99462ae9075f.css","style"]
-:HL["/dashboard/_next/static/css/2d7c4099aae0c3a8.css","style"]
+:HL["/dashboard/_next/static/css/559c42f3c8574fc3.css","style"]
 :HL["/dashboard/_next/static/css/d87768f32537d87d.css","style"]
 :HL["/dashboard/_next/static/css/d0df9cb0839a2a84.css","style"]
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],[["$","link","0",{"rel":"stylesheet","href":"/dashboard/_next/static/css/6adb99462ae9075f.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/dashboard/_next/static/css/2d7c4099aae0c3a8.css","precedence":"next"}],["$","link","2",{"rel":"stylesheet","href":"/dashboard/_next/static/css/d87768f32537d87d.css","precedence":"next"}],["$","link","3",{"rel":"stylesheet","href":"/dashboard/_next/static/css/d0df9cb0839a2a84.css","precedence":"next"}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"_BaH2sT_RThzgK_38Ildr"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],[["$","link","0",{"rel":"stylesheet","href":"/dashboard/_next/static/css/6adb99462ae9075f.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/dashboard/_next/static/css/559c42f3c8574fc3.css","precedence":"next"}],["$","link","2",{"rel":"stylesheet","href":"/dashboard/_next/static/css/d87768f32537d87d.css","precedence":"next"}],["$","link","3",{"rel":"stylesheet","href":"/dashboard/_next/static/css/d0df9cb0839a2a84.css","precedence":"next"}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"-5bbZbuaAxD5oHTanEnKA"}
 5:null
